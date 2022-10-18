@@ -39,3 +39,15 @@ p{
     text-overflow: ellipsis;
     overflow: hidden;
 }
+.alert-js{
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    background-color: #212F3D;
+}
+.remove{
+    display: none;
+}
+.add{
+    display: block;
+}
